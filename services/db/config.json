@@ -1,0 +1,8 @@
+{
+  "host": "localhost",
+  "user": "postgres",
+  "password": "postgres",
+  "database": "frcc",
+  "dialect": "postgres",
+  "logging": false
+}
